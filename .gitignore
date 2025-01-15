@@ -1,0 +1,14 @@
+.DS_Store
+*.aux
+*.bbl
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.blg
+*.synctex.*
+*.toc
+main.pdf
+
